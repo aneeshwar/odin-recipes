@@ -1,0 +1,1 @@
+The purpose of this project is to test basic HTML knowledge by creating a minimal recipe website.
